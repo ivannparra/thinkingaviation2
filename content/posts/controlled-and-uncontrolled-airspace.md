@@ -5,7 +5,7 @@ category:
   - Aviation
 author: Ivan Parra
 date: 2020-10-28T18:01:39.352Z
-featureImage: /uploads/weight-and-balance-short-arm.png
+featureImage: /uploads/weight-and-balance-overloaded.png
 ---
 <!--StartFragment-->
 
@@ -31,7 +31,7 @@ On terminal areas (Class C and B airspaces), approach/departure controllers (TRA
 
 During the takeoff, aircraft are in contact with tower controllers, and then they are handed off to departure control (TRACON) who vectors or clears them to the en-route segment (Class A airspace). Thereafter they continue the flight with Air Route Traffic Controllers (ARTCC) until they start the descent on the destination airport. During the arrival, aircraft in contact with ARTCC, are handed off to the Approach controllers (TRACON) who vectors or clears them into the airport, thereafter they are handed to the tower and cleared to land.
 
-![en-route segment](/uploads/weight-and-balance-low-wing-load.png "ATC Services")
+![en-route segment](/uploads/weight-and-balance-overloaded.png "ATC Services")
 
 Controlled Airspaces types are defined based on the complexity or density of aircraft movements and the nature of the operations conducted within the airspace.
 
