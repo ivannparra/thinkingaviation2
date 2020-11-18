@@ -5,7 +5,7 @@ category:
   - Aviation
 author: Ivan Parra
 date: 2020-10-28T18:01:39.352Z
-featureImage: /uploads/weight-and-balance-overloaded.png
+featureImage: /uploads/ksat-to-kiah.png
 ---
 <!--StartFragment-->
 
